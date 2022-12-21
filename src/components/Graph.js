@@ -16,6 +16,7 @@ function Graph(data) {
       title: "Exit Valuation (in USD)",
       prefix: "$",
       suffix: "M",
+      interval: 1000000
     },
     axisY: {
       title: "Price per share (in USD)",
