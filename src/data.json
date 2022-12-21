@@ -1,0 +1,119 @@
+{
+    "valuations": [
+      
+      {
+        "id": 0,
+        "class": "Common",
+        "currency": "$",
+        "valuationPrice": 7000000,
+        "pricePerShare": 26.29695
+      },
+      {
+        "id": 1,
+        "class": "Series A1 Preferred",
+        "currency": "$",
+        "valuationPrice": 7000000,
+        "pricePerShare": 20.29695
+      },
+      {
+        "id": 2,
+        "class": "Common",
+        "currency": "$",
+        "valuationPrice": 1000000,
+        "pricePerShare": 18.29695
+      },
+     
+      {
+        "id": 3,
+        "class": "Series A1 Preferred",
+        "currency": "$",
+        "valuationPrice": 3000000,
+        "pricePerShare": 11.29695
+      },
+      
+      {
+        "id": 4,
+        "class": "Common",
+        "currency": "$",
+        "valuationPrice": 0,
+        "pricePerShare": 0
+      },
+      {
+        "id": 5,
+        "class": "Common",
+        "currency": "$",
+        "valuationPrice": 1000000,
+        "pricePerShare": 18.29695
+      },
+      {
+        "id": 6,
+        "class": "Series A1 Preferred",
+        "currency": "$",
+        "valuationPrice": 0,
+        "pricePerShare": 0
+      },
+      {
+        "id": 7,
+        "class": "Series A Preferred",
+        "currency": "$",
+        "valuationPrice": 0,
+        "pricePerShare": 0
+      },
+      {
+        "id": 8,
+        "class": "New Round",
+        "currency": "$",
+        "valuationPrice": 0,
+        "pricePerShare": 0
+      },
+      {
+        "id": 9,
+        "class": "New Round",
+        "currency": "$",
+        "valuationPrice": 4000000,
+        "pricePerShare": 10
+      },
+      {
+        "id": 10,
+        "class": "New Round",
+        "currency": "$",
+        "valuationPrice": 5500000,
+        "pricePerShare": 11.23
+      },
+      {
+        "id": 11,
+        "class": "New Round",
+        "currency": "$",
+        "valuationPrice": 7500000,
+        "pricePerShare": 19.23
+      },
+      {
+        "id": 12,
+        "class": "Series A Preferred",
+        "currency": "$",
+        "valuationPrice": 3000000,
+        "pricePerShare": 30.45
+      },
+      {
+        "id": 13,
+        "class": "Series A Preferred",
+        "currency": "$",
+        "valuationPrice": 4000000,
+        "pricePerShare": 45.678
+      },
+      {
+        "id": 14,
+        "class": "Series A Preferred",
+        "currency": "$",
+        "valuationPrice": 4500000,
+        "pricePerShare": 55.678
+      },
+      {
+        "id": 15,
+        "class": "Series A Preferred",
+        "currency": "$",
+        "valuationPrice": 6000000,
+        "pricePerShare": 45.678
+      }
+    ]
+  }
