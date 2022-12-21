@@ -57,8 +57,6 @@ function ValuationGraph() {
           });
         });
 
-    console.log(seriesA, seriesA1, common, newRound);
-
     let dataSet = [
       {
         yValueFormatString: "$#,###",
