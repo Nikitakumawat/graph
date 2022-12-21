@@ -114,6 +114,27 @@
         "currency": "$",
         "valuationPrice": 6000000,
         "pricePerShare": 45.678
+      },
+      {
+        "id": 16,
+        "class": "Series A Preferred",
+        "currency": "$",
+        "valuationPrice": 8000000,
+        "pricePerShare": 65.678
+      },
+      {
+        "id": 17,
+        "class": "Series A Preferred",
+        "currency": "$",
+        "valuationPrice": 7000000,
+        "pricePerShare": 35.678
+      },
+      {
+        "id": 18,
+        "class": "Series A Preferred",
+        "currency": "$",
+        "valuationPrice": 9000000,
+        "pricePerShare": 65.678
       }
     ]
   }
